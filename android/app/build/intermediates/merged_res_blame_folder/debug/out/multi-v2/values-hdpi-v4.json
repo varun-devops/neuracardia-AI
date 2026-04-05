@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.webtroops.neuracardia_ai.app-mergeDebugResources-45:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\varunsingh\\.gradle\\caches\\transforms-3\\d1e47fa03a256954fa1861bc74a4210d\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

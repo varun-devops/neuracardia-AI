@@ -1,0 +1,14 @@
+<!-- TODO: Download this file from Firebase Console -->
+<!-- 
+Steps:
+1. Go to https://console.firebase.google.com/
+2. Select your project
+3. Go to Project Settings
+4. Under "Your apps", select iOS app
+5. Download GoogleService-Info.plist
+6. Replace this template file with the downloaded file
+7. Open ios/Runner.xcworkspace in Xcode
+8. Drag the downloaded file into the Runner folder in Xcode
+
+This file should contain your Firebase configuration for iOS
+-->
